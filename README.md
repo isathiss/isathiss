@@ -1,10 +1,16 @@
-# Sobre mim 
+# Sobre mim🫀
+
+## editando perfil
+### teste
+
+-**Olá, eu sou @isathiss**
+-:+1:0 meu [e-mail] (isabella.this@escola.pr.gov.br)
 
 - 👋 **Ola, eu sou a @isathiss**
 - 👀 Eu estou interessada em progamação html
 - 🌱 Eu frequentemente busco aprender css,github,fisica
 - 💞️ Eu sou aluna de pensamento computacional, colegio Mario Quintana 
-- 📫 Meu [e-mail] é (isabella.this@escola.pr.gov.br). 
+- 📫 Meu email é isabella.this@escola.pr.gov.br 
 
 <!---
 isathiss/isathiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
