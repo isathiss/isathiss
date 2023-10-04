@@ -3,8 +3,8 @@
 ## editando perfil
 ### teste
 
--**Olá, eu sou @isathiss**
--:+1:0 meu [e-mail] (isabella.this@escola.pr.gov.br)
+- **Olá, eu sou @isathiss**
+- :+1:0 meu [e-mail] (isabella.this@escola.pr.gov.br)
 
 - 👋 **Ola, eu sou a @isathiss**
 - 👀 Eu estou interessada em progamação html
